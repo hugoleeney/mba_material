@@ -28,6 +28,9 @@ in case studies micro-detail is important
 
 # SUPPLY CHAIN OF N95 MASKS
 
+* handout of University of Virginia's 'A Perfect Storm: Examining the Supply Chain for N95 masks during COVID-19'
+
+
 ## why were we so unprepared
 
 * lots of diff factors
